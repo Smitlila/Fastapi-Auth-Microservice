@@ -59,4 +59,3 @@ pytest
 ## Notes
 - Simple in-memory rate limiter; use Redis for production.
 - Tables auto-created on startup for demo; use migrations (e.g., Alembic) for real deployments.
-# Fastapi-Auth-Microservice
